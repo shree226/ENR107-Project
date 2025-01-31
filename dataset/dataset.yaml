@@ -1,0 +1,5 @@
+path: /workspaces/ENR107-Project/dataset
+train: images/train
+val: images/val
+nc: 2  # Number of classes (update if needed)
+names: ["tool_1", "tool_2"]  # Class names
